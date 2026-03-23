@@ -1,0 +1,16 @@
+{
+  "student-001": {
+    "name": "Arjun",
+    "year": 2,
+    "interests": ["tech", "entrepreneurship"],
+    "enrolled_clubs": ["coding-society", "entrepreneurship-cell"],
+    "history": ["AI Workshop", "Startup Pitch 2025"]
+  },
+  "student-002": {
+    "name": "Priya",
+    "year": 1,
+    "interests": ["arts", "cultural"],
+    "enrolled_clubs": ["drama-club", "photography-club"],
+    "history": ["Art Gallery Visit", "Theater Rehearsal"]
+  }
+}

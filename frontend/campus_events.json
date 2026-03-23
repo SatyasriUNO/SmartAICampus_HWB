@@ -1,0 +1,7 @@
+{
+  "events": [
+    {"id": "hack-01", "name": "24hr Campus Hackathon", "category": "tech"},
+    {"id": "pitch-01", "name": "Startup Pitch Competition", "category": "entrepreneurship"},
+    {"id": "art-01", "name": "Cultural Fest Open Mic", "category": "cultural"}
+  ]
+}
